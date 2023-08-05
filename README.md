@@ -1,0 +1,2 @@
+# Algorithm
+Maze Project
